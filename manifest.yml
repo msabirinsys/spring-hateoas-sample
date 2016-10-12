@@ -1,0 +1,6 @@
+---
+applications:
+- name: employee-service
+  memory: 512M
+  buildpack: java_buildpack
+  domain: cfapps.io
